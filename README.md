@@ -1,3 +1,3 @@
 # 031802626
-nothing
-hithub there....;
+### 主文件为 text_similarity.py
+对比两个文本并计算文本相似度，采用结巴分词和词袋模型进行计算
