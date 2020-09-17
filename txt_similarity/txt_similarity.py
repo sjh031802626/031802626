@@ -13,6 +13,7 @@ def read_stop_word(file_path):
 
 # 构建停用词表
 stopwords = read_stop_word("stop_word.txt")
+# 结巴分词后的停用词性 [标点符号、连词、助词、副词、介词、时语素、‘的’、数词、方位词、代词]
 stop_flag = ['x', 'c', 'u','d', 'p', 't', 'uj', 'm', 'f', 'r']
 
 # 创建文件
