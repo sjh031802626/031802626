@@ -85,7 +85,7 @@ def TF_IDF(txt_vectors,query_bow):
 
 
 
-orig_path = 'sim_0.8\orig.txt'
-copy_path = 'sim_0.8\orig_0.8_add.txt'
-ans_path = 'ans.txt'
+orig_path = input('输入原文文件路径：')
+copy_path = input('输入相似文本文件路径：')
+ans_path = input('答案文件路径：')
 main_gensim(orig_path,copy_path,ans_path)
