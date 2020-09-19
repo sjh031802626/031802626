@@ -1,0 +1,9 @@
+orig_0.8_add.txt£º0.91
+orig_0.8_del.txt£º0.88
+orig_0.8_dis_1.txt£º0.94
+orig_0.8_dis_3.txt£º0.90
+orig_0.8_dis_7.txt£º0.90
+orig_0.8_dis_10.txt£º0.88
+orig_0.8_dis_15.txt£º0.83
+orig_0.8_mix.txt£º0.89
+orig_0.8_rep.txt£º0.88
